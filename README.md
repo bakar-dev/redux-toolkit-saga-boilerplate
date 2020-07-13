@@ -2,11 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## FEATURES INCLUDED:
 
-# Redux-toolkit(slicing)
+### Redux-toolkit(slicing)
 
-# Saga integrated
+### Saga integrated
 
-# axios api call
+### axios api call
 
 ## Available Scripts
 
