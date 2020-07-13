@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## FEATURES INCLUDED:
+
+# Redux-toolkit(slicing)
+
+# Saga integrated
+
+# axios api call
+
 ## Available Scripts
 
 In the project directory, you can run:
